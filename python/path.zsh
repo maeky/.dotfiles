@@ -1,0 +1,1 @@
+export PATH="$PATH:/Users/max/Library/Python/3.9/bin"
